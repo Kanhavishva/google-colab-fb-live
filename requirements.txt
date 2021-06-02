@@ -4,6 +4,6 @@ decorator==4.4.2
 idna==2.10
 requests==2.24.0
 six==1.15.0
-urllib3==1.25.9
+urllib3==1.26.5
 validators==0.16.0
 youtube-dl==2020.6.16.1
